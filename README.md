@@ -43,8 +43,9 @@ Layer in predictive analytics to forecast conversion dips and recommend interven
 📊 Dashboard Snapshots
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/bf9fcd21-0063-4e12-98a4-9f0402f9479e" />
-<p float="left">
-  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/37a5c22a-5cb5-444e-86d8-f8d83163a9cb" />
-  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/68f429c8-6898-4208-b17e-69a286aa92d1" />
-  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/b74a820c-9c52-4b2a-8acb-9e63706e0e6f" />
+
+<p align="center">
+  <img width="33%" alt="image" src="https://github.com/user-attachments/assets/37a5c22a-5cb5-444e-86d8-f8d83163a9cb" />
+  <img width="33%" alt="image" src="https://github.com/user-attachments/assets/68f429c8-6898-4208-b17e-69a286aa92d1" />
+  <img width="33%" alt="image" src="https://github.com/user-attachments/assets/b74a820c-9c52-4b2a-8acb-9e63706e0e6f" />
 </p>
