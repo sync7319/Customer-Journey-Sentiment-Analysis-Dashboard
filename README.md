@@ -44,7 +44,6 @@ Built an interactive Power BI dashboard combining SQL, Python sentiment analysis
 
 - How to combine **quantitative metrics (conversion, engagement)** with **qualitative data (reviews)** for deeper marketing insights  
 - Tricks in **sentiment analysis** — refining thresholds, handling “mixed” reviews, and using rating + sentiment scores together to improve categorization  
-- The importance of **contextual storytelling** in analytics dashboards — not just showing metrics but explaining why they matter  
 
 ---
 
